@@ -1,6 +1,6 @@
 <?php
 Class User {
 	public static function awesome() {
-		echo "Not so awesome!";
+		echo "Yet to be awesome!";
 	}
 }
